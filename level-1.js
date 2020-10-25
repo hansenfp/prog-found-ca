@@ -59,9 +59,9 @@ Question 8
 
 function whatIDontLike(badVibes) {
     console.log("I dont like " + badVibes);
-
-    whatIDontLike("People that dont smile");
 }
+
+whatIDontLike("People that dont smile");
 
 
 Question 9
